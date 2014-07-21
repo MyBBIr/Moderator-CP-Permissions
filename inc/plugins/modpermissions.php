@@ -46,9 +46,9 @@ $plugins->add_hook("admin_user_groups_edit_commit", "modpermissions_usergroups_c
 function modpermissions_info()
 {
 	return array(
-		"name"				=> "Moderator CP Permissions",
-		"description"		=> "Allows you to limit what sections of the Moderator CP a specific usergroup can use.",
-		"website"			=> "http://galaxiesrealm.com/index.php",
+		"name"				=> "محدودیت کترل پنل ناظم",
+		"description"		=> "به شما دسترسی میده تا قسمت های مختلف پنل ناظم رو برای گروه های مختلف محدود کنید.",
+		"website"			=> "http://amk2080.ir/index.php",
 		"author"			=> "Starpaul20",
 		"authorsite"		=> "http://galaxiesrealm.com/index.php",
 		"version"			=> "1.0.3",
